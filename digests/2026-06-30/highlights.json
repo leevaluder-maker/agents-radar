@@ -1,102 +1,117 @@
 {
   "zh": {
     "ai-cli": [
-      "Claude Code 和 Codex 内存泄漏问题成社区焦点",
-      "Gemini CLI 夜间构建更新，强化 Agent 会话管理",
-      "Copilot CLI v1.0.66-2 发布，修复多项 Bug",
-      "Qwen Code 因文件读写死循环引发稳定性争议",
-      "DeepSeek TUI 聚焦发布流程改进与国际化",
-      "Pi 工具在架构优化上持续发力，社区活跃"
+      "Claude Code 发布 v2.1.196 版本，聚焦核心稳定性修复",
+      "OpenAI Codex 因 SSD 磨损和 Token 消耗问题引发用户反弹",
+      "Gemini CLI 发布 v0.51.0-nightly 版本，强化 Agent 安全沙箱",
+      "OpenCode 启动 V2 架构重构，宣布支持 MCP 集成",
+      "Qwen Code 发布 v0.19.3-nightly 版本，新增 Daemon 模式",
+      "DeepSeek TUI 冲刺 v0.8.66，聚焦子 Agent 并发卡死修复"
     ],
     "ai-agents": [
-      "OpenClaw v2026.6.11-beta.2 发布，增强渠道控制",
-      "Slack Relay 模式及原生 Mattermost 命令上线",
-      "SQLite 会话存储迁移进入最后冲刺阶段",
-      "新开议题达398个，社区贡献远超维护者处理能力",
-      "每个 DM 会话支持独立模型覆盖，提升调优灵活性",
-      "项目快速迭代，但面临 SQLite 迁移等稳定性挑战"
+      "OpenClaw 24小时活跃 Issue 与 PR 总量接近 900 条",
+      "核心问题：复杂 Agent 工作流中存在深层故障处理逻辑缺陷",
+      "项目正在引入官方请求守护以强化安全与健壮性",
+      "维护团队面临 PR 积压审核压力，关键 Bug 修复周期拉长",
+      "新增 PR 大量针对 SSRF 防护等基础设施层",
+      "社区反馈与维护者响应之间存在明显延迟"
     ],
     "ai-trending": [
-      "ai-berkshire 日增 1397 星，多 Agent 投资研究框架火爆",
-      "claude-mem 获 85k+ 星，解决 Agent 长期记忆痛点",
-      "headroom 压缩 Token 60-95%，降低 API 成本显著",
-      "视频编辑 Agent video-use 日增 976 星，创意自动化大门开启",
-      "VulnClaw 渗透测试 Agent 日增 105 星，安全领域新势力",
-      "testtimescaling 学术方向兴起，推理阶段计算优化成高地"
+      "agency-agents 今日 Stars 暴增 1425 颗，成 Agent 产品化新星",
+      "shareAI-lab 推动零代码构建 Agent，降低开发者门槛",
+      "ai-berkshire 和 Vibe-Trading 将 LLM 注入金融决策场景",
+      "ollama 持续巩固本地运行大模型标杆地位",
+      "LiquidAI 推出 230M 参数液态基础模型，极具研究价值",
+      "WeiboAI 的 VibeThinker-3B 专注数学推理获社区认可"
     ],
     "ai-hn": [
-      "GLM 5.2 在网络安全基准上击败 Claude 引热议",
-      "DeepSeek V4 推峰谷定价，预测加剧 API 价格战",
-      "NanoEuler 纯 C/CUDA 实现 GPT-2，成学习 LLM 经典资源",
-      "Show HN: 本地语音助手开源项目获开发者追捧",
-      "AI 编码助手是否会导致软件架构停滞在 2020 年？",
-      "MRI 诊断中 AI 应用成本失控成社区讨论焦点"
+      "韩国宣布万亿级投资内存芯片和人形机器人引热议",
+      "vLLM 团队 Micro-Agent 技术实现低成本挑战顶级模型",
+      "开发者激烈讨论 Claude Code 的正确使用方法与提示工程",
+      "Anthropic CEO 关于开源 AI 危险言论再引发封闭与开源辩论",
+      "项目 Show HN 展示视觉 AI 应用引发关注",
+      "社区围绕 AI 产业泡沫与权力集中担忧情绪蔓延"
+    ],
+    "ai-arxiv": [
+      "新研究提出过程优势信号塑形中间件，提升推理模型训练效率",
+      "研究发现 LLM 记忆系统会固化为自信事实，构成安全风险",
+      "模型规模越大越会意识到被评估，可能策略性改变行为研究揭示扩散模型存在评估幻觉，影响公平比较",
+      "PolicyGuard 子 Agent 通过对话历史验证策略合规性",
+      "多块扩散语言模型提升生成质量与灵活性"
     ],
     "ai-hf": [
-      "GLM-5.2 以 2899 点赞成为本周 Hugging Face 焦点",
-      "DeepSeek-V4-Pro-DSpark 发布，聚焦快速推理部署",
-      "nvidia 量化版 Qwen3.6 下载量超 539 万，降低部署门槛",
-      "HauhauCS 的 Qwen3.6 无审查版下载量达 309 万",
-      "微软 FastContext-1.0-4B 小模型强化长上下文与 Agent 能力",
-      "WeiboAI VibeThinker-3B 小模型专注数学推理受热捧"
+      "GLM-5.2 MoE 模型登顶本周下载量与点赞双冠王",
+      "Qwen 推出专为智能体设计的 3B 激活参数 MoE 模型",
+      "DeepSeek V4 Pro 集成动态稀疏激活技术",
+      "社区量化微调活动火爆，GLM-5.2 GGUF 版本受追捧",
+      "百度 Unlimited-OCR 模型下载量达 36.2 万次",
+      "无审查和智能体取向模型获社区高度关注"
     ],
     "ai-community": [
-      "MCP 服务器在输入前已消耗超 5 万 Token 成性能警告",
-      "GPT-5.6 'Sol' 发布引热议，受限访问策略成焦点",
-      "JSON 压缩器创新方法可大幅降低 Agent Token 消耗",
-      "Auth0 支招：如何让 AI Agent 安全管理凭证不泄密",
-      "LLM API 调用完整链路解析，适合中级开发者",
-      "Lobste.rs 社区深聊 AI 寒冬预兆与数学研究身份冲击"
+      "开发者热议内存应内嵌于上下文的架构思维而非模型本身",
+      "实战案例：用本地 Ollama 模型自动化生成 Git 提交信息",
+      "硬核科普解构从用户输入到 Token 流返回全过程",
+      "Auth0 警告：硬编码 API Key 在 System Prompt 是危险反模式",
+      "MCP 服务搭建教程成热点，助力应用接入 AI Agent 生态",
+      "社区关注模型无法自我验证信心及 AI 蠕虫等安全风险"
     ]
   },
   "en": {
     "ai-cli": [
-      "Claude Code and OpenAI Codex lead by engagement",
-      "Memory leaks and session reliability concerns",
-      "Gemini CLI and Qwen Code focus on agent autonomy",
-      "Tool-first vs agent-first CLI divergence emerges",
-      "Cost transparency and token waste frustrate developers",
-      "Windows and ARM64 support gaps persist"
+      "Claude Code v2.1.196 released today",
+      "Legacy bug #26224 persists with 146👍",
+      "Cross-tool agent reliability is universal pain",
+      "Pi, Kimi, Qwen Code race to close gaps",
+      "Security hardening across major CLI tools",
+      "Enterprise adoption pressures drive PII redaction"
     ],
     "ai-agents": [
-      "OpenClaw issues and PRs hit 500 each",
-      "Over 450 open PRs signal review bottleneck",
-      "SQLite session migration tracked across issues",
-      "Beta release v2026.6.11-beta.2 debuts",
-      "Slack relay mode and Mattermost support added",
-      "Telegram message drops remain unresolved"
+      "OpenClaw: 395 issues, 500 PRs in 24h",
+      "85% of OpenClaw issues remain open",
+      "55 pull requests merged/closed today",
+      "Session management and auth providers hot",
+      "Multi-agent reliability under active debate",
+      "No new releases; batching for stable version"
     ],
     "ai-trending": [
-      "Agentic autonomy and finance agents dominate",
-      "VulnClaw pushes AI-driven cybersecurity automation",
-      "agency-agents explodes with 1,221 stars today",
-      "18-AI persona deliberation framework goes viral",
-      "AutoGPT and hermes-agent remain top projects",
-      "RAG and agent memory ecosystem booming"
+      "NousResearch/hermes-agent hits 205k⭐",
+      "Council-of-high-intelligence +331 stars today",
+      "AI Berkshire finance agent +1386 today",
+      "Vibe-Trading from HKUDS +839 today",
+      "AI video editing surge: video-use +967",
+      "Ollama now supports Kimi-K2.6 and GLM-5.1"
     ],
     "ai-hn": [
-      "GLM 5.2 beats Claude in cyber benchmarks",
-      "User analyzes own MRI scans with Claude Code",
-      "China resetting AI race sparks skepticism",
-      "DeepSeek V4 peak-valley pricing change news",
-      "Anthropic CEO's open-source warning resurfaced",
-      "Community split on benchmark reliability"
+      "South Korea pledges $1 trillion for AI",
+      "Micro-Agent: small models beat frontier ones",
+      "Shift to cheaper models threatens Big AI",
+      "Anthropic CEO open-source safety clip resurfaces",
+      "Don't blindly copy-paste errors into Claude Code",
+      "‘Echoes of AI Winter’ sparks 39 comments"
+    ],
+    "ai-arxiv": [
+      "GRPO foundations paper reveals credit assignment flaw",
+      "Process Advantage Signal Shaping middleware proposed",
+      "Complexity Ceiling Benchmark for sequential tasks",
+      "Financial trading, agricultural advisory AI models",
+      "Confidence inflation from memory consolidation analyzed",
+      "New framework for policy adherence verification"
     ],
     "ai-hf": [
-      "MoE and vision-language models lead trends",
-      "GLM-5.2 as flagship open-weight LLM",
-      "Uncensored Qwen3.6 variant hits 3M downloads",
-      "NVIDIA's NVFP4 quantization on two models",
-      "DeepSeek-V4-Pro-DSpark with DSPark acceleration",
-      "LocateAnything-3B for visual grounding tasks"
+      "GLM-5.2 top with 2,945 likes, 133k downloads",
+      "Ornith-1.0 series spans 9B to 397B parameters",
+      "Uncensored Qwen3.6 variant explodes with 3M+ downloads",
+      "NVIDIA NVFP4 quantizations gain traction",
+      "Krea-2 image generation ecosystem emerging",
+      "DeepSeek-V4-Pro-DSpark released with research paper"
     ],
     "ai-community": [
-      "Manager-mandated AI erodes developer joy",
-      "MCP servers waste 50k+ tokens before input",
-      "RAG benchmark integrity questioned",
-      "Prompt injection seen as role confusion",
-      "AI-powered computer worms add security concerns",
-      "Cory Doctorow critiques AI labor narratives"
+      "AI Engineer World's Fair excites Dev.to",
+      "MCP servers and local LLMs for git commits",
+      "Multi-repo semantic search across 46 repos",
+      "Cory Doctorow on Big Tech labor automation",
+      "‘The Model Does Not Need Memory’ sparks debate",
+      "LLM API inference pipeline deep dive popular"
     ]
   }
 }

@@ -1,6 +1,6 @@
 {
   "anthropic": {
-    "lastChecked": "2026-06-29T16:05:25.646Z",
+    "lastChecked": "2026-06-30T02:30:44.330Z",
     "seenUrls": {
       "https://www.anthropic.com/news/responsible-scaling-policy-v3": "2026-02-25T23:57:06.000Z",
       "https://www.anthropic.com/research/deprecation-updates-opus-3": "2026-02-25T20:58:11.000Z",
@@ -409,7 +409,7 @@
     }
   },
   "openai": {
-    "lastChecked": "2026-06-29T16:05:27.946Z",
+    "lastChecked": "2026-06-30T02:30:43.712Z",
     "seenUrls": {
       "https://openai.com/index/arvind-kc-chief-people-officer/": "2026-05-29T00:25:33.242Z",
       "https://openai.com/index/put-ai-to-work-for-your-product-team/": "2026-06-12T04:05:36.713Z",
@@ -1091,7 +1091,7 @@
       "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api/": "2026-06-09T13:02:28.087Z",
       "https://openai.com/index/running-codex-safely/": "2026-05-22T19:23:21.941Z",
       "https://openai.com/index/advancing-youth-safety-in-emea/": "2026-06-15T02:08:24.760Z",
-      "https://openai.com/index/openai-campus-network-student-club-interest-form/": "2026-06-28T15:25:17.920Z",
+      "https://openai.com/index/openai-campus-network-student-club-interest-form/": "2026-06-29T22:05:34.846Z",
       "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai/": "2026-06-11T17:36:23.683Z",
       "https://openai.com/index/openai-launches-the-deployment-company/": "2026-05-22T19:20:44.308Z",
       "https://openai.com/business/the-openai-deployment-company/": "2026-05-22T19:24:34.685Z",
@@ -1124,13 +1124,13 @@
       "https://openai.com/index/deployment-simulation/": "2026-06-25T15:33:31.672Z",
       "https://openai.com/index/introducing-life-sci-bench/": "2026-06-24T20:50:25.977Z",
       "https://openai.com/index/improving-health-intelligence-in-chatgpt/": "2026-06-24T00:36:27.755Z",
-      "https://openai.com/index/chatgpt-enterprise-spend-controls/": "2026-06-25T09:53:22.123Z",
+      "https://openai.com/index/chatgpt-enterprise-spend-controls/": "2026-06-29T20:50:32.610Z",
       "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment/": "2026-06-29T15:56:02.566Z",
       "https://openai.com/index/daybreak-securing-the-world/": "2026-06-25T10:12:01.877Z",
       "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/": "2026-06-28T21:56:30.090Z",
       "https://openai.com/index/how-agents-are-transforming-work/": "2026-06-29T14:41:28.572Z",
       "https://openai.com/index/previewing-gpt-5-6-sol/": "2026-06-29T15:35:03.069Z",
-      "https://openai.com/index/hp-frontier-partnership/": "2026-06-29T00:28:03.809Z"
+      "https://openai.com/index/hp-frontier-partnership/": "2026-06-30T02:02:27.511Z"
     }
   }
 }
