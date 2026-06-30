@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T16:10:16.015Z",
+  "generated": "2026-06-30T02:35:32.280Z",
   "dates": [
     {
       "date": "2026-06-30",
@@ -12,6 +12,8 @@
         "ai-trending-en",
         "ai-hn",
         "ai-hn-en",
+        "ai-arxiv",
+        "ai-arxiv-en",
         "ai-hf",
         "ai-hf-en",
         "ai-community",
