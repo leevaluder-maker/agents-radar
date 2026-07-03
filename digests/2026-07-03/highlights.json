@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.199发布，修复子代理路由Bug",
+      "OpenAI Codex用户不满计费透明度与资源消耗",
+      "Gemini CLI v0.51.0-nightly发布，社区反馈活跃",
+      "GitHub Copilot CLI用户遇60秒自动超时强制中断",
+      "Agent架构可靠性成最大痛点：子代理结果路由错误",
+      "Qwen Code v0.19.5/nightly发布，社区提交活跃"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.1-beta.1全面支持GPT-5.6",
+      "24小时内合并66个PR，修复会话状态与消息丢失",
+      "外部工具挂载命令openclaw attach现已可用",
+      "Anthropic Agent回放修复边界压缩后失忆Bug",
+      "平台兼容性提升：Nix-mode配置工具修复",
+      "破坏性变更警告：建议非生产环境充分测试"
+    ],
+    "ai-trending": [
+      "caveman通过原始人短句降低65% Token消耗",
+      "strix开源AI渗透测试工具，今日新增2137星",
+      "agency-agents内置多专业Agent，今日新增3032星",
+      "Chrome DevTools MCP让Agent直接操控浏览器",
+      "video-use让Coding Agent直接编辑视频文件",
+      "vllm推理引擎持续领跑，Star数达85,196"
+    ],
+    "ai-web": [
+      "Anthropic发布Sonnet 5，性能对标旗舰Opus 4.8",
+      "Fable 5解禁回归，展现实力级政府公关能力",
+      "Sonnet 5被定位为最具代理性的Sonnet系列模型",
+      "Fable 5采用Pro/Max方案50%额度内免费策略",
+      "OpenAI更新聚焦生物信息学基准GeneBench Pro",
+      "Anthropic披露Fable 5安全护栏与越狱框架"
+    ],
+    "ai-hn": [
+      "OpenAI向美国政府提供5%股权引发激烈争论",
+      "Claude-real-video让任何LLM都能观看视频",
+      "博客主张拒绝LLM生成的代码贡献，获115分",
+      "Manufact (YC S25) 推出MCP云服务，获101分",
+      "Claude Code被指嵌入间谍软件，隐私担忧加剧",
+      "AI蠕虫worm-llm引发社区对新型安全的讨论"
+    ],
+    "ai-arxiv": [
+      "为线性注意力模型设计海马体模块解决长程遗忘",
+      "DALorRA微调方法缓解LLM过度自信问题",
+      "自蒸馏在长链推理中失败的根源被揭示",
+      "LLM-as-a-Judge在多语言场景面临挑战",
+      "基于规则的临床推理评估揭示大模型差距",
+      "OpenHands框架在SWE-bench集成测试中表现抢眼"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE模型获3256点赞，周冠军",
+      "百度Unlimited-OCR下载量达758,489",
+      "NVIDIA LocateAnything-3B下载突破百万",
+      "Qwen3.5衍生模型GGUF版本下载量百万级",
+      "DeepSeek-V4-Pro-DSpark发布，附论文",
+      "Ornith-1.0-35B展示通用与多模态能力平衡"
+    ],
+    "ai-community": [
+      "AIE大会‘Google VP放弃编码’引发职业讨论",
+      "AI写测试被祛魅：区分实用价值与误导",
+      "模型路由策略根据任务动态选择最经济模型",
+      "EU推理服务商选型指南2026版发布",
+      "LLM安全入门教程防范提示注入攻击",
+      "MCP协议在开发工具集成中展现实用性"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and OpenCode lead in traffic.",
+      "Windows compatibility is the ecosystem's weakest link.",
+      "Multi-agent hierarchies emerge as a shared priority.",
+      "Gemini CLI and Pi show fastest iteration velocity.",
+      "MCP integration gains traction across tools.",
+      "Debate on agent autonomy versus user control continues."
+    ],
+    "ai-agents": [
+      "OpenClaw releases v2026.7.1-beta.1 with GPT-5.6 support.",
+      "OpenClaw has 196 issues and 500 PRs in 24 hours.",
+      "New external harness attachment feature launched.",
+      "124 open issues signal a widening backlog.",
+      "Multiple P1 regressions persist from earlier releases.",
+      "72 issues closed and 66 PRs merged today."
+    ],
+    "ai-trending": [
+      "Caveman token compressor cuts 65% of tokens.",
+      "Agency-agents tops trending with +3032 stars today.",
+      "Headroom RAG token compressor hits 55K+ stars.",
+      "Agent specialization and skill frameworks are peaking.",
+      "Browser-use video-use extends automation to video editing.",
+      "Token efficiency emerges as a major ecosystem theme."
+    ],
+    "ai-web": [
+      "Anthropic launches Claude Sonnet 5, most agentic yet.",
+      "Claude Fable 5 and Mythos 5 redeployed after export ban.",
+      "Claude Science AI workbench for research introduced.",
+      "Sonnet 5 is now default for Free and Pro plans.",
+      "OpenAI updates are limited to metadata-only entries.",
+      "Anthropic follows dual-track strategy: frontier and accessible."
+    ],
+    "ai-hn": [
+      "OpenAI offers 5% stake to US government.",
+      "Backlash against AI slop and LLM code dependencies.",
+      "Anthropic accused of embedding spyware in Claude Code.",
+      "Amazon launches $1B Frontier Development org.",
+      "Growing interest in LLMs with real-time video input.",
+      "Developers rally for deterministic AI architectures."
+    ],
+    "ai-arxiv": [
+      "New hippocampus-inspired memory solves long-context recall.",
+      "On-policy self-distillation teaches models how to think.",
+      "Bayesian LoRA provides well-calibrated uncertainty estimates.",
+      "Bounded-memory testbeds mature for agent ecosystems.",
+      "Verifiable context governance introduced for autonomous agents.",
+      "Formal analysis of offline RL generalization published."
+    ],
+    "ai-hf": [
+      "Qwen 3.5 and GLM-5.2 MoE dominate trending models.",
+      "NVIDIA launches LocateAnything-3B vision model.",
+      "Baidu's Unlimited-OCR gains traction for scalable OCR.",
+      "DeepSeek-V4-Pro-DSpark offers sparse activation reasoning.",
+      "New Ornith-1.0-397B MoE challenges established families.",
+      "Community GGUF quantizations surge for local deployment."
+    ],
+    "ai-community": [
+      "Google VP says he has given up on coding.",
+      "AI Engineer World's Fair debates death of traditional coding.",
+      "Cory Doctorow discusses labor automation on Lobste.rs.",
+      "Warning about AI agents enabling adaptive computer worms.",
+      "Debate on what it means to be a mathematician with AI.",
+      "DevRel faces threat from Forward Deployed Engineering."
+    ]
+  }
+}
