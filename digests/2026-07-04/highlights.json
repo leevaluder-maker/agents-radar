@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 发布 v2.1.200 与 v2.1.201 版本",
+      "Qwen Code 发布 v0.19.6 及 CUDA 驱动",
+      "社区聚焦 Agent 行为控制与可预测性",
+      "用户要求对权限批准拥有完全控制权",
+      "子代理任务状态错误报告问题受关注",
+      "多工具普遍修复自动超时与稳定性缺陷"
+    ],
+    "ai-agents": [
+      "OpenClaw 今日 PR 活动异常活跃，500 条更新",
+      "高达 89% 的 PR 处于待合并状态",
+      "核心维护者 RomneyDa 启动大规模代码重构",
+      "修复文本工具输出被替换为媒体占位符",
+      "工具调用间文本泄漏问题持续发酵",
+      "嵌入式 Agent 重试时保留过期思考签名"
+    ],
+    "ai-trending": [
+      "caveman 以原始人语言节省65% Token 成本",
+      "usestrix/strix AI 渗透测试工具今日涨星2803",
+      "obra/superpowers 为 Agent 提供标准技能框架",
+      "claude-mem 与 mem0 推动持久化记忆需求",
+      "Graphify 代码知识图谱重塑代码库交互",
+      "AutoGPT 以185k 星数持续引领 Agent 框架"
+    ],
+    "ai-web": [
+      "Anthropic 密发三篇内容聚焦安全叙事",
+      "Fable 5 模型重部署并公开网络安全分类器",
+      "提出 AI 越狱危害等级框架早期草案",
+      "回顾 Cluade 扩展思维强化可解释性",
+      "系统梳理自2023年的安全里程碑 RSP",
+      "OpenAI 官网无任何新内容发布"
+    ],
+    "ai-hn": [
+      "本地运行 SOTA 大模型指南今日顶流276分",
+      "AMD MI355X 运行 GLM5.2 成本比 Blackwell 低2倍",
+      "GLM5.2 推理速度达2626 tok/s/node",
+      "OpenUI 提出生成式 UI 开放标准",
+      "Mistral 发布 Leanstral 1.5 降低证明门槛",
+      "Anthropic 多个负面议题同时发酵"
+    ],
+    "ai-arxiv": [
+      "分布式攻击可绕过持久化 AI Agent 安全审查",
+      "在线安全监控方法为 LLM 部署提供实时哨兵",
+      "多Agent辩论中社会结构导致口是心非",
+      "社会模拟保真度并非缩放必然结果",
+      "自蒸馏方法动态调整 Token 级别蒸馏权重",
+      "编程即权重范式替代外部 LLM API 调用"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2 获3344点赞成社区焦点",
+      "deepseek-ai 发布 V4 Pro 和 Flash 双版本",
+      "Qwen AgentWorld-35B-A3B 专为智能体优化",
+      "nvidia LocateAnything-3B 零样本定位下载超百万",
+      "baidu Unlimited-OCR 下载量达88.5万",
+      "BugTraceAI 推出27B 网络安全专用模型"
+    ],
+    "ai-community": [
+      "Firecracker 微虚拟机为 AI 代码构建安全沙箱",
+      "Agent 可靠性需 50ms SLA 检查点引擎",
+      "对抗性测试教程教你主动发现模型脆弱点",
+      "为 AI Agent 记忆系统构建信任防火墙",
+      "正确选择工具抽象层是构建 Agent 核心",
+      "基础设施工程能力在 AI 时代不可替代"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code & OpenAI Codex ship urgent security patches",
+      "Gemini CLI and DeepSeek TUI harden agent architecture",
+      "OpenCode and Pi expand with multi-provider support",
+      "Cross-tool tension: autonomy vs. safety guardrails",
+      "Claude Code v2.1.200/201 patch releases out",
+      "Rust SDK alpha released for OpenAI Codex"
+    ],
+    "ai-agents": [
+      "OpenClaw project sees 314 issues, 500 PRs updated",
+      "RomneyDa leads ~10 consolidation/refactoring PRs",
+      "Session-state and message delivery bugs in focus",
+      "No new releases; last version v2026.6.11",
+      "Known regression in reply session initialization",
+      "55 of 500 updated PRs merged or closed"
+    ],
+    "ai-trending": [
+      "Claude Code skill ecosystems explode: caveman 2,863 stars",
+      "Strix: open-source AI penetration testing tool",
+      "Herdr enables agent multiplexing for production",
+      "vLLM remains dominant inference engine at 85k stars",
+      "Ollama adds Kimi-K2.6, DeepSeek, Qwen support",
+      "Firecrawl hits 143k stars for AI web scraping"
+    ],
+    "ai-web": [
+      "Claude Fable 5 redeployed with cyber safety details",
+      "Novel jailbreak severity categorization framework",
+      "Anthropic prioritizes post-deployment safety transparency",
+      "OpenAI contributed no new content today",
+      "Responsible Scaling Policy and extended thinking surfaced",
+      "Strategic pivot to operationalizing inference safety"
+    ],
+    "ai-hn": [
+      "Guide to running SOTA LLMs locally tops 276 points",
+      "AMD MI355X beats Blackwell at 2x lower cost",
+      "Leanstral 1.5: Proof Abundance for All announced",
+      "Community sentiment shifts to critical ROI evaluation",
+      "Growing disillusionment with AI productivity gains",
+      "Rising security vulnerabilities flagged in discussions"
+    ],
+    "ai-arxiv": [
+      "Distributed attacks in persistent-state AI control identified",
+      "Online safety monitor for LLMs without retraining",
+      "Multi-dimensional refusal subspaces via RFM-AGOP",
+      "Disagreement-modulated self-distillation for token errors",
+      "Study: more tools don't improve first-try agent success",
+      "Neuron-level interventions for unlearning and data selection"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model gains traction with 3,344 likes",
+      "Uncensored Qwen3.6-35B-A3B hits 3M downloads",
+      "NVIDIA's NVFP4 quantization for production deployment",
+      "Vision-language unification dominates trending models",
+      "Qwen-AgentWorld-35B optimized for tool-use",
+      "fal's LTX-2.3 video LoRA expands multimodal frontiers"
+    ],
+    "ai-community": [
+      "CreateOS Sandbox on Firecracker for untrusted AI code",
+      "Adversarial Testing 101: break models before users",
+      "Trust firewall for AI agent memory on Cognee",
+      "Hardening phase: AI agent security and data leakage",
+      "Cory Doctorow critiques Big Tech labor automation",
+      "Micro-VM sandboxes for generated code execution"
+    ]
+  }
+}
