@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code社区聚焦模型质量与MCP热加载",
+      "OpenAI Codex发布新Alpha版本，解决速率限制",
+      "Gemini CLI推出Nightly版，修复Agent挂起",
+      "GitHub Copilot CLI v1.0.69-1修复Windows崩溃",
+      "Qwen Code发布Nightly版，优化守护进程性能",
+      "OpenCode面临自动压缩循环与Provider误报"
+    ],
+    "ai-agents": [
+      "OpenClaw今日超500条Issue和PR，维护压力大",
+      "修复web_fetch输出截断，提升调试恢复能力",
+      "更新oxlint linter到0.24.0，规避不安全规则",
+      "修复Slack频道消息重复送达问题",
+      "新增array fill lint规则，防止共享状态Bug",
+      "P0 Bug：云实例计费异常引发稳定性担忧"
+    ],
+    "ai-trending": [
+      "Agent技能生态爆发，caveman等单日上千stars",
+      "Chrome DevTools MCP插件实现AI操作浏览器",
+      "strix开源AI渗透测试工具获1904+ stars",
+      "alibaba/page-agent用自然语言控制网页",
+      "alirezarezvani/claude-skills含337个技能",
+      "hermes-agent成通用Agent框架新星"
+    ],
+    "ai-hn": [
+      "Claude Code会话/缓存泄漏漏洞引安全危机",
+      "OpenAI Codex推理Token聚类致性能退化",
+      "AI用Rust重写PHP引擎，成功运行WordPress",
+      "本地化屏幕回顾工具ScreenMind用Gemma 4",
+      "内存图层技术减少LLM上下文负担受关注",
+      "Anthropic被指控对用户进行提示注入"
+    ],
+    "ai-hf": [
+      "GLM-5.2登顶点赞榜，下载量超20万",
+      "DeepSeek-V4-Pro-DSpark专注复杂推理编程",
+      "Qwen-AgentWorld-35B优化Agent工具调用",
+      "Ornith-1.0-397B基于Qwen3.5 MoE超大规模",
+      "NVIDIA与智谱合作推GLM-5.2-NVFP4量化版",
+      "nvidia/LocateAnything-3B成视觉定位黑马"
+    ],
+    "ai-community": [
+      "AI Agent生产可靠性成Dev.to核心焦点",
+      "Claude Code vs Cursor AI性价比深度对比",
+      "游戏化探讨1T参数推理的生产环境挑战",
+      "AI Agent权限过大问题引发安全警报",
+      "Qdrant vs Pinecone等向量数据库横向评测",
+      "确定性Agent循环实验全部失败引反思"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code battles session limit bugs",
+      "Community demands cost transparency",
+      "Qwen Code improves daemon persistence",
+      "Gemini CLI boosts sub-agent reliability",
+      "OpenCode enhances event handling",
+      "AST-aware code understanding emerges"
+    ],
+    "ai-agents": [
+      "OpenClaw hits daily issue/PR cap",
+      "456 open issues, 343 open PRs",
+      "157 PRs merged in 24 hours",
+      "Critical reliability fixes merged",
+      "Heavy stabilization cycle ongoing",
+      "Last stable release was March 2026"
+    ],
+    "ai-trending": [
+      "caveman slashes 65% token usage",
+      "Strix launches AI pentesting tool",
+      "Agent Skills repos explode in stars",
+      "system_prompts_leaks aggregates prompts",
+      "mattpocock/skills gains +973 stars",
+      "Token optimization becomes key UX"
+    ],
+    "ai-hn": [
+      "Anthropic faces trust crisis",
+      "Session leak claims emerge",
+      "GPT-5.5 Codex shows regression",
+      "AI rewrites PHP in Rust",
+      "Prompt injection concerns rise",
+      "Alibaba bans Anthropic tools"
+    ],
+    "ai-hf": [
+      "GLM-5.2 dominates MoE trends",
+      "NVIDIA releases NVFP4 quantizations",
+      "gemma-4 agentic models explode",
+      "Qwen3.5/3.6 families trending",
+      "Ornith-1.0-397B pushes scaling",
+      "LocateAnything-3B sets VLM standards"
+    ],
+    "ai-community": [
+      "AI agents silently failing in production",
+      "Credential scanners flag false positives",
+      "AI hallucinated incident response story",
+      "Agent loop scrutinized for determinism",
+      "AI agents called 'most over-privileged account'",
+      "Tool-call data leakage demonstrated"
+    ]
+  }
+}
