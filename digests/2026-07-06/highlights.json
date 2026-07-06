@@ -47,6 +47,14 @@
       "自托管 LLM 默认无认证，一行配置决定安全",
       "LLM 提示缓存实战：LangChain 配置陷阱与修复",
       "2026 年企业正从 LangChain 转向原生 Agent 架构"
+    ],
+    "ai-weekly": [
+      "Claude Code被曝会话泄漏及提示注入引发信任危机",
+      "Fable 5重装上阵，Sonnet 5高性价比发布",
+      "OpenAI Codex配额系统故障致用户成本失控",
+      "AI技能插件生态爆发，caveman等项目霸榜GitHub",
+      "美国出口管制意外刺激中国开源AI生态发展",
+      "企业因高昂AI成本从OpenAI、Anthropic撤退"
     ]
   },
   "en": {
@@ -97,6 +105,14 @@
       "Claude Opus 4.8 vs GPT-5.5 pricing comparisons drawn.",
       "Alternative to LLMs: 8 months and 200 failed experiments.",
       "Code review can't keep up with AI agents."
+    ],
+    "ai-weekly": [
+      "Anthropic redeploys Claude Fable 5 after review.",
+      "OpenAI may give US government 5% stake.",
+      "Sonnet 5 launched as most agentic yet.",
+      "AI CLI tools face production reliability crisis.",
+      "Agent skill marketplaces explode on GitHub.",
+      "OpenAI Codex SSD wearout issue goes viral."
     ]
   }
 }
