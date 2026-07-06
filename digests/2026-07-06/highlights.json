@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 和 OpenCode 因 Bug 和安全策略陷入动荡",
+      "OpenAI Codex 社区热议 GPT-5.5 性能疑云",
+      "Gemini CLI 推出 Agent 编排与性能优化深度迭代",
+      "Qwen Code v0.19.6 发布，带来 KV-cache 优化",
+      "DeepSeek TUI 冲刺 Workflow，优化高扇出性能",
+      "Pi 社区聚焦工具调用标准化与新模型集成"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.1-beta.2，支持 GPT-5.6",
+      "新增 openclaw attach 命令，挂载外部工具",
+      "iOS 端修复重连后丢失运行中任务的问题",
+      "Android 端修复重连后聊天发送丢失与重复",
+      "Control UI 支持悬停预览 GitHub Issue 和 PR",
+      "修复 Claude CLI 后端路由时的认证问题"
+    ],
+    "ai-trending": [
+      "Meetily 登顶，AI 会议助手备受关注",
+      "OpenAI codex-plugin-cc 成热门 AI 编程插件",
+      "Claude Skills 合集项目 alirezarezvani 爆火",
+      "阿里巴巴 page-agent 引领 GUI 操控 Agent 风潮",
+      "Facebook 开源 Agent-Ready 设计系统 Astryx",
+      "CoplayDev 发布 unity-mcp 集成 AI 与游戏引擎"
+    ],
+    "ai-hn": [
+      "Simon Willison 用 Claude Fable 149 美元重写 sqlite-utils",
+      "Claude Design System Prompt 获得 116 个点赞",
+      "Handoff 项目实现 Claude Code 会话间上下文桥接",
+      "Claude Opus 4.8 与 GPT-5.5 性价比对比引热议",
+      "Tripadvisor AI 推荐功能被指推荐危险活动",
+      "加拿大 AI 战略与 Palantir 合作引发伦理争议"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2 获 3470 赞，成社区明星 MoE 模型",
+      "deepseek-ai/DeepSeek-V4-Pro-DSpark 发布专业版",
+      "nvidia/GLM-5.2-NVFP4 实现极致 NF4 量化部署",
+      "Qwen-AgentWorld-35B-A3B 专为智能体任务优化",
+      "mistralai/Leanstral-1.5 探索 119B 参数极致效率",
+      "InternScience/Agents-A1 基于 Qwen 3.5 强化 Agent 能力"
+    ],
+    "ai-community": [
+      "LangChain Agent 静默失败两周的教训与解决方案",
+      "非 Transformer 架构 8 个月 200 次实验的失败总结",
+      "AI 辅助编码加速导致技术债急剧膨胀的反思",
+      "自托管 LLM 默认无认证，一行配置决定安全",
+      "LLM 提示缓存实战：LangChain 配置陷阱与修复",
+      "2026 年企业正从 LangChain 转向原生 Agent 架构"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code faces safety classifier false positives.",
+      "Gemini CLI and OpenCode push multi-agent orchestration.",
+      "Qwen Code advances daemon resilience.",
+      "Pi pioneers constrained-sampling tool schemas.",
+      "Kimi Code CLI stalled by incomplete brand migration.",
+      "Top tools focus on reliability and session management."
+    ],
+    "ai-agents": [
+      "OpenClaw hits 500 issues and PRs in 24 hours.",
+      "Beta v2026.7.1-beta.2 adds GPT-5.6 support.",
+      "339 PRs merged; 428 issues remain open.",
+      "Maintainer bandwidth may bottleneck progress.",
+      "New external harness attach feature added.",
+      "High community engagement with significant backlog."
+    ],
+    "ai-trending": [
+      "Agent-skill ecosystems explode with thousands of stars.",
+      "Token efficiency projects caveman and headroom emerge.",
+      "System prompt leaks from major LLM providers go viral.",
+      "RAG and memory layer ecosystem matures rapidly.",
+      "openai/codex-plugin-cc gains 1532 stars today.",
+      "Ollama now supports Kimi models."
+    ],
+    "ai-hn": [
+      "sqlite-utils 4.0rc2 rewritten by Claude for $149.",
+      "Debate shifts from coding to managing AI agents.",
+      "Sharp criticism of Microsoft's AI tax arises.",
+      "KiCad in the Browser Show HN scores 96 points.",
+      "AI-generated content unreliability in apps flagged.",
+      "Cost-effectiveness of Claude Fable sparks discussion."
+    ],
+    "ai-hf": [
+      "Qwen 3.5/3.6 ecosystem dominates with quantized variants.",
+      "Huihui-GLM-5.2-abliterated shows appetite for uncensored models.",
+      "DeepSeek-V4-Pro-DSpark optimized for reasoning and speed.",
+      "NVIDIA pushes high-performance MoE and vision-language models.",
+      "Google's TabFM signals focus on domain-specific transformers.",
+      "Unsloth and empero-ai lead quantization for local deployment."
+    ],
+    "ai-community": [
+      "LangChain agent silently fails for two weeks.",
+      "Memory and context limitations are key discussion thread.",
+      "OpenAI's IPO and government stake talks shift landscape.",
+      "Claude Opus 4.8 vs GPT-5.5 pricing comparisons drawn.",
+      "Alternative to LLMs: 8 months and 200 failed experiments.",
+      "Code review can't keep up with AI agents."
+    ]
+  }
+}
