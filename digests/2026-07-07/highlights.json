@@ -1,0 +1,110 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.202 发布，Bug 井喷与功能并行",
+      "OpenAI Codex 架构调整，rust v0.143.0-alpha.37 发布",
+      "Gemini CLI 针对 Agent 子系统密集修复",
+      "Qwen Code 架构换代与痛点修复并行",
+      "OpenCode v1.17.14 发布，V2 架构推进",
+      "DeepSeek TUI v0.8.67 发布，聚焦版本加固"
+    ],
+    "ai-agents": [
+      "OpenClaw 24小时产出500条Issues和500条PR",
+      "会话状态与消息丢失成高优先级Bug焦点",
+      "社区强烈要求支持Linux和Windows客户端",
+      "多智能体协调和上下文控制功能呼声最高",
+      "修复了畸形UTF-16代理对导致的缓存失效",
+      "WhatsApp 会话初始化冲突加入重试机制"
+    ],
+    "ai-trending": [
+      "system_prompts_leaks 泄露主流大模型提示词",
+      "Claude Code 和 Codex 周边技能市场爆发",
+      "meetily 本地化隐私优先会议助手受热捧",
+      "firecrawl 获得867颗星，RAG数据源首选",
+      "openai/codex-plugin-cc 实现Agent互操作",
+      "steipete/CodexBar 解决开发者的计费焦虑"
+    ],
+    "ai-web": [
+      "Anthropic 分析百万对话，发现6%用户寻求生活指导",
+      "AI在关系咨询中奉承行为高达25%，远超平均水平",
+      "发现模型内部'全局工作空间'，可读'内心独白'",
+      "Claude被用于审查4.66亿行政府代码",
+      "新研究直接指导Claude Opus 4.7训练",
+      "可解释性研究首次找到模型'思维黑板'"
+    ],
+    "ai-hn": [
+      "Anthropic 全局工作空间研究获270分讨论",
+      "GLM 5.2 引发大模型API利润率崩塌热议",
+      "Anthropic 因隐藏追踪器与定价遭遇批评",
+      "Pulpie 用帕累托最优模型清理网络脏数据",
+      "Mozilla 推出开源LLM控制平面Otari",
+      "AI泡沫与利润率崩塌悲观论调升温"
+    ],
+    "ai-hf": [
+      "Qwen3.6 GGUF版下载量达291万，现象级关注",
+      "nvidia/LocateAnything-3B 视觉定位模型爆红",
+      "baidu/Unlimited-OCR 通用OCR下载量超107万",
+      "GLM-5.2 凭借 MoE 架构获得3532点赞",
+      "empero-ai 成功迁移Claude-Mythos风格到开源模型",
+      "DeepSeek-V4-Pro-DSpark 优化推理与代码任务"
+    ],
+    "ai-community": [
+      "开发者分享AI Agent尝试发布已回滚的Bug",
+      "36模式检查清单精准识别AI写作瑕疵",
+      "API密钥安全隐患引开发者34次点赞热议",
+      "PagedAttention游戏化模拟GPU内存调度",
+      "AI时代新型可观测性设计思路受开发者关注",
+      "LLM API错误处理策略成社区实战热点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.202 shipped today",
+      "Safety filter crisis hits Claude Code",
+      "OpenAI Codex rust-v0.143.0-alpha.37 released",
+      "Agent reliability issues dominate pain points",
+      "DeepSeek TUI gains traction locally",
+      "Kimi Code CLI targets Asian-language workflows"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs today",
+      "402 issues remain open, 98 closed today",
+      "199 PRs merged or closed in 24 hours",
+      "No new releases, last was v2026.6.11",
+      "High-velocity community development phase",
+      "Session state and context leak bugs persist"
+    ],
+    "ai-trending": [
+      "asgeirtj/system_prompts_leaks hits 1,378 stars/day",
+      "Zackriya-Solutions/meetily gains 2,494 stars/day",
+      "OpenAI codex-plugin-cc enables agent interoperability",
+      "steipete/CodexBar Mac app surges +598 stars",
+      "Alibaba's zvec brings vector search to C++",
+      "Firecrawl reaches 146,328 stars for AI agents"
+    ],
+    "ai-web": [
+      "Anthropic finds global workspace in language models",
+      "1M Claude conversations analyzed for sycophancy",
+      "6% of Claude usage involves personal guidance",
+      "25% sycophancy rate in relationship advice",
+      "Govt of Alberta scans 466M lines with Claude Code",
+      "OpenAI had zero new content this crawl"
+    ],
+    "ai-hn": [
+      "Hidden tracker in Claude Code sparks outrage",
+      "GLM 5.2 triggers AI margin collapse debate",
+      "Global workspace paper tops HN with 270 points",
+      "Community questions AGI versus clever engineering",
+      "Strong anti-Anthropic sentiment dominates today",
+      "Smaller efficient models gain attention"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model trends with 231k downloads",
+      "DeepSeek-V4-Pro-DSpark enhances reasoning",
+      "Mistral's 119B MoE sets parameter efficiency record",
+      "Agents-A1 agent model gains 8.8k downloads",
+      "NVFP4 quantized NVIDIA models push local",
+      "Ornith 1.0 family drives massive downloads"
+    ]
+  }
+}
