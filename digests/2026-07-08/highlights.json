@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.204发布，用户反馈token用量暴涨引争议",
+      "OpenAI Codex rust-v0.143.0密集迭代，修复多项核心问题",
+      "Qwen Code v0.19.7发布，推进正式版与Daemon模式",
+      "OpenCode v1.17.15发布，V2迁移进入关键期",
+      "Pi社区讨论热度高，用户聚焦成本控制与稳定性",
+      "Gemini CLI v0.51.0-nightly发布，基础设施加速构建"
+    ],
+    "ai-agents": [
+      "OpenClaw今日近1000条Issue/PR交互，稳定性攻坚进行中",
+      "PR修复mid-turn context precheck过度估算Token消耗问题",
+      "PR为图像描述增加尺寸缩放和压缩，适配高像素照片",
+      "子Agent超时静默丢失问题修复方案出炉",
+      "多项PR修复上下文溢出预检查，防止数据丢失",
+      "无新版本发布，但大量高优问题解决预示重大更新"
+    ],
+    "ai-trending": [
+      "AI求职框架ai-job-search今日暴涨2514星",
+      "本地会议助手meetily获1777星，主打隐私优先",
+      "Chrome工程VP创建agent-skills，提升Agent编码能力",
+      "口袋TTS模型pocket-tts获531星，可CPU运行",
+      "腾讯云发布CubeSandbox，为Agent提供安全沙箱",
+      "claude-video让Claude具备视频理解能力，获965星"
+    ],
+    "ai-web": [
+      "Anthropic发布Claude Sonnet 5，主打高智能体能力",
+      "Sonnet 5性能逼近旗舰Opus 4.8但成本更低",
+      "Anthropic发现Claude内部‘全局工作空间’J-space",
+      "OpenAI今日无任何新发布，战略动向静默",
+      "Sonnet 5成为所有用户计划默认模型",
+      "J-space研究为AI可解释性提供全新维度"
+    ],
+    "ai-hn": [
+      "Rowboat登顶HN，开源本地化替代Claude Desktop",
+      "Shellular让手机运行Claude Code和Codex",
+      "Claude Fable 5限时免费体验延长引热议",
+      "J-Space揭示Claude‘沉默推理’内部机制",
+      "1-bit WebGPU运行时在浏览器运行1.7B大模型",
+      "Meta发布Muse图像和视频生成模型"
+    ],
+    "ai-arxiv": [
+      "Danus提出事实图记忆协调数学推理多智能体",
+      "基于信息增益的树状展开提升多轮Agent效率",
+      "LongCrafter用证据图合成长上下文指令数据",
+      "任务分解引导重排序实现Agent技能精准检索",
+      "大规模跨语言研究揭示不确定性估计性能瓶颈",
+      "论文主张从应用层模拟转向原生元架构设计"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2以3591赞登顶HF本周黑马",
+      "nvidia/LocateAnything-3B获142万下载量",
+      "baidu/Unlimited-OCR超百万下载引关注",
+      "Qwen 3.5/3.6家族生态全面爆发霸榜",
+      "Mistral发布Leanstral-1.5极致MoE模型",
+      "DeepSeek-V4-Pro-DSpark专注推理性能优化"
+    ],
+    "ai-community": [
+      "AI讨论从‘它能做什么’转向‘我们能依赖它吗’",
+      "Agent循环中账单增长：减少token浪费方案",
+      "RAG系统对表格数据的误解被曝光",
+      "嵌入向量泄露原始文本，RAG安全新风险",
+      "AI Coding工具选择成招聘新信号",
+      "50次完美Demo后AI Agent在生产环境翻车"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.203–204 released",
+      "OpenAI Codex rust-v0.143.0 out",
+      "Gemini CLI v0.51.0-nightly released",
+      "OpenCode navigating complex V2 migration",
+      "Cost bugs dominate Claude Code activity",
+      "GitHub Copilot CLI v1.0.69 released"
+    ],
+    "ai-agents": [
+      "OpenClaw: 500 issues, 500 PRs updated",
+      "379 open issues, 121 closed today",
+      "135 PRs merged or closed today",
+      "Mid-turn context precheck accuracy work",
+      "Bug fix for cron reminder UX regression",
+      "Memory UTF-16 safety fixes in progress"
+    ],
+    "ai-trending": [
+      "MadsLorentzen/ai-job-search +2,514 stars",
+      "system_prompts_leaks +1,691 stars today",
+      "NousResearch/hermes-agent 211,004 total stars",
+      "bradautomates/claude-video +965 stars",
+      "Agent skill repositories on the rise",
+      "Privacy-first local processing trending"
+    ],
+    "ai-web": [
+      "Claude Sonnet 5 announced by Anthropic",
+      "Sonnet 5 matches Opus 4.8 on agentic tasks",
+      "Global Workspace research paper published",
+      "Anthropic targets developer production market",
+      "Sonnet 5 priced for mass adoption",
+      "Mechanistic interpretability breakthrough"
+    ],
+    "ai-hn": [
+      "Claude Cowork product launch on HN",
+      "Anthropic vs. Abnormal.ai lawsuit trending",
+      "Fable 5 access extended through July 12",
+      "US energy costs from AI data centers debated",
+      "Rowboat open-source alternative discussed",
+      "Codex vs Claude: bugs vs velocity debate"
+    ],
+    "ai-arxiv": [
+      "Multi-agent collaboration paper (Danus)",
+      "DT-Guard: safety vs reasoning trade-off",
+      "Uncertainty estimation across 22 languages",
+      "Pluralis tackles cultural safety blind spots",
+      "Neural tangent kernel sub-optimality bounds",
+      "Finite-width Gaussian process limits studied"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2 gets 3,591 likes",
+      "Qwen 3.5/3.6 ecosystem dominates trending",
+      "NVIDIA LocateAnything-3B breakout hit",
+      "Uncensored Qwen variant: 2.8M downloads",
+      "DeepSeek-V4-Pro-DSpark with 424 likes",
+      "Unsloth GGUF conversion: 2.8M downloads"
+    ],
+    "ai-community": [
+      "Focus shifting from capability to reliability",
+      "RAG systems lie about tabular data",
+      "AI concurrent code hit cache-line contention",
+      "AI tool choice becomes hiring signal",
+      "What breaks AI agent after 50 demos",
+      "Google energy consumption sparks debate"
+    ]
+  }
+}
