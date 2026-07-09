@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code发布v2.1.205，成本失控仍是核心痛点",
+      "OpenAI Codex高速迭代但回归Bug频发",
+      "Gemini CLI发布v0.51.0，积极修复安全漏洞",
+      "OpenCode v2重构引发大量讨论和Bug反馈",
+      "Pi和Qwen Code会话崩溃问题引关注",
+      "社区对MCP协议标准化需求显著上升"
+    ],
+    "ai-agents": [
+      "OpenClaw今日活跃度极高，PR和Issue均达500条",
+      "修复GitHub Enterprise数据驻留认证，企业级功能推进",
+      "限制流式SSE读取为16MiB，防止OOM攻击",
+      "修复会话重复重启，提升核心可用性",
+      "工具调用间文本泄露问题引发35条热议",
+      "无新版本发布，但多核心修复进入等待合并"
+    ],
+    "ai-trending": [
+      "OfficeCLI专为AI Agent设计，今日获1717星",
+      "CubeSandbox开源轻量级沙箱，解决Agent代码安全",
+      "TencentDB-Agent-Memory实现全本地化长期记忆",
+      "agent-skills仓库推动Agent从能用变专业",
+      "RuView用WiFi信号实现空间感知，拓展AI感知边界",
+      "system_prompts_leaks揭示提示词工程新热点"
+    ],
+    "ai-web": [
+      "Anthropic发布35篇研究，聚焦安全与经济影响",
+      "研究提出模型知识层面控制开关，安全范式转变",
+      "红队评估显示AI能力逼近国家安全阈值",
+      "经济影响研究探索AI政策应对框架",
+      "OpenAI仅4项更新，可能聚焦GPT-Live产品化",
+      "Anthropic报告为政策制定者提供时间窗口"
+    ],
+    "ai-hn": [
+      "GPT-Live发布引爆社区，获603分406条评论",
+      "GPT-5.6代号Sol周四公开发布引热议",
+      "OpenAI反思代码评估基准信号质量",
+      "Anthropic模型滥用问题遭社区批评",
+      "微软Flint可视化语言获开发者好评",
+      "中国对Claude Code安全审查成关注焦点"
+    ],
+    "ai-arxiv": [
+      "RL在后训练中深度应用成今日研究焦点",
+      "长上下文推理效率优化多篇论文探索",
+      "Co-LMLM将推理吞吐量提升高达5倍",
+      "RoPE频率使用与数据位置尺度匹配新发现",
+      "激活离散度可预测模型答案可靠性",
+      "未来置信度蒸馏提升模型自省能力"
+    ],
+    "ai-hf": [
+      "GLM-5.2以3668赞成社区最受关注大模型",
+      "DeepSeek-V4-Pro-DSpark代表开源前沿",
+      "NVIDIA LocateAnything-3B下载超142万",
+      "Baidu Unlimited-OCR下载超108万",
+      "Qwen家族成量化与微调绝对主力",
+      "Krea-2-Turbo加速版文生图满足效率需求"
+    ],
+    "ai-community": [
+      "Agent伪造测试日志后自欺欺人引热议",
+      "开发者探讨AI时代如何保持自身不可替代性",
+      "MCP协议优化解决Agent大文件处理难题",
+      "5种Agent记忆模式为TypeScript开发者指路",
+      "本地小模型在非洲市场展现经济性优势",
+      "能源消耗与基础设施挑战成讨论新焦点"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code vs Codex rivalry intensifies",
+      "OpenCode and Pi show rapid iteration",
+      "Gemini CLI focuses on subagent fixes",
+      "Qwen Code and CodeWhale merge 10+ PRs daily",
+      "Agent cost and trust surpass capabilities",
+      "Kimi Code shows negligible activity"
+    ],
+    "ai-agents": [
+      "OpenClaw at 500 issues, 500 PRs in 24h",
+      "408 open PRs signal a maintainer bottleneck",
+      "No new releases; stabilization phase",
+      "Session-state corruption and security concerns",
+      "92 PRs merged/closed, active codebase maintenance",
+      "Critical issues labeled 'clawsweeper' pending decisions"
+    ],
+    "ai-trending": [
+      "zvec: Alibaba's lightweight vector DB surges",
+      "system_prompts_leaks gains +1,218 stars",
+      "claude-video gives agents 'eyes'",
+      "TencentDB-Agent-Memory for persistent context",
+      "CubeSandbox offers safe agent sandboxing",
+      "Rust-based rig builds modular LLM apps"
+    ],
+    "ai-web": [
+      "Anthropic drops 'off switch for dual use knowledge'",
+      "Frontier Red Team report: near security thresholds",
+      "35 new articles from Anthropic archive dump",
+      "Proposes surgical removal of dangerous model weights",
+      "OpenAI publishes 'Introducing Gpt Live' metadata",
+      "OpenAI index: 'Separating Signal From Noise'"
+    ],
+    "ai-hn": [
+      "GPT-Live gets 603 points, mixed sentiment",
+      "Anthropic's Fable deemed 'not useful' by critics",
+      "GPT-5.6 Sol, Terra, Luna launch sparks debate",
+      "Trump admin lifts restrictions on GPT-5.6",
+      "Ask HN: request for less AI content on HN",
+      "Community wary of OpenAI centralization"
+    ],
+    "ai-arxiv": [
+      "GRPO vanishing gradients addressed by trace prefix",
+      "Linear attention models advance efficiency",
+      "Parallel drafting decouples long and short contexts",
+      "Compositional reasoning from RL post-training",
+      "Dialectal generation remains a key LLM flaw",
+      "Sample complexity bounds for CoT learning proven"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 variants dominate top spots",
+      "NVIDIA LocateAnything-3B gets 2,667 likes",
+      "GLM-5.2 leads conversational MoE buzz",
+      "DeepSeek-V4-Pro-DSpark rises fast",
+      "Mistral Leanstral: 119B params, 6B active",
+      "Gemma-4-12B fine-tunes for agentic terminal use"
+    ],
+    "ai-community": [
+      "Agents fake test logs, then believe them",
+      "RAG teams rethink retrieval quality metrics",
+      "Loop engineering surpasses prompt engineering",
+      "Google's AI climate impact debated",
+      "Anthropic releases global workspace research",
+      "Three invariants for safe self-editing loops"
+    ]
+  }
+}
