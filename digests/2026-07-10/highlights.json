@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code 2.1.206发布，聚焦Fable 5 Advisor问题",
+      "OpenAI Codex新版本，GPT-5.5速率限制引争议",
+      "Gemini CLI v0.52.0-nightly，修复RCE安全漏洞",
+      "GitHub Copilot CLI v1.0.70，新TUI卡死问题",
+      "DeepSeek TUI v0.8.68准备就绪，优化性能",
+      "Kimi Code CLI 支持兼容Claude Code配置"
+    ],
+    "ai-agents": [
+      "OpenClaw 1000条Issues和PRs，核心会话稳定性危机",
+      "PR #101023修复消息路由错误，提升核心稳定性",
+      "PR #102971优化网关大消息处理性能",
+      "社区热议会话结果丢失和过程不可见问题",
+      "Android应用新增技能管理功能",
+      "无新版本发布，但PR合并活跃"
+    ],
+    "ai-trending": [
+      "addyosmani/agent-skills星增2554，开源Agent技能库",
+      "iOfficeAI/OfficeCLI星增1929，AI操作Office文档",
+      "langgenius/dify星数148339，Agent工作流首选",
+      "Significant-Gravitas/AutoGPT星数185443，AI Agent先驱",
+      "MadsLorentzen/ai-job-search星增3716，AI求职助手",
+      "vllm-project/vllm星数85846，高性能LLM推理引擎"
+    ],
+    "ai-web": [
+      "Anthropic任命前美联储主席伯南克加入信托基金",
+      "UST将Claude引入实体AI，赋能芯片与汽车制造",
+      "Anthropic邀请公众提出AI治理难题",
+      "OpenAI更新指向GPT-5/6及微软365 Copilot整合",
+      "伯南克加入标志Anthropic治理结构重大升级",
+      "Claude从数字世界进军物理世界"
+    ],
+    "ai-hn": [
+      "GPT-5.6发布引爆社区，得1069分780评论",
+      "纽约时报指控OpenAI伪造数据搜索能力",
+      "Claude Code政策工具讨论成焦点",
+      "GLM 5.2记账准确性接近人类，获187分",
+      "逆向工程Web应用为Agent工具引热议",
+      "CodeAlmanac自更新Wiki解决Agent记忆问题"
+    ],
+    "ai-arxiv": [
+      "OpenCoF：视频生成模型作为推理新路径",
+      "BIiSCo-LLM：二值化球形编码实现极低比特压缩",
+      "WebSwarm：递归多智能体编排实现深度网页搜索",
+      "主动记忆智能体提升长程任务成功率",
+      "超级权重假说被质疑，挑战参数重要性认知",
+      "量化LLM评估新指标：一致性而非准确率"
+    ],
+    "ai-hf": [
+      "Qwen3.6系列霸榜，社区首选基座模型",
+      "NVIDIA LocateAnything-3B成最热多模态模型",
+      "zai-org/GLM-5.2点赞3729，MoE对话新星",
+      "Krea-2图像生成系列形成完整生态链",
+      "GGUF量化格式下载量极高，端侧部署强劲",
+      "empero-ai社区微调版下载量达1.87M"
+    ],
+    "ai-community": [
+      "Senior Devs拒绝AI会变Junior讨论引思考",
+      "Agent需要事件日志而非更多工具",
+      "Grok 4.5成本解析：6美元输出价才是重点",
+      "AI代码审查让人疲惫，需反思副...",
+      "确定性路由+采样作为LLM质量门替代方...",
+      "社区关注AI生成代码质量和安全性"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Bi-weekly release cadence across major tools",
+      "Token cost management a universal pain point",
+      "16 patches shipped ecosystem-wide in 24h",
+      "Claude Code v2.1.206 released today",
+      "OpenAI Codex v0.144.1 released today",
+      "Established tools focus on enterprise reliability"
+    ],
+    "ai-agents": [
+      "OpenClaw sees 500 issues and 500 PRs in 24h",
+      "Zero new releases despite high activity",
+      "Maintainers focus on CI pipeline stability",
+      "Core team actively addressing infrastructure bugs",
+      "Plugin and channel reliability improvements merged",
+      "Substantial maintenance load on core team"
+    ],
+    "ai-trending": [
+      "AI job search automation projects gain 4500+ stars",
+      "Universal memory layers like claude-mem emerge",
+      "System prompts leaks repo surges by 1125 stars",
+      "Deep community hunger for transparent AI brain",
+      "Crawl4ai gains 215 stars for agent-ready web data",
+      "Ollama now supports Kimi-K2.6 and GLM-5.1 models"
+    ],
+    "ai-web": [
+      "Anthropic partners with UST for physical AI",
+      "Ben Bernanke appointed to Anthropic governance trust",
+      "Claude embedded in semiconductor and manufacturing",
+      "OpenAI content limited to metadata-only titles",
+      "Anthropic releases off switch paper for dual-use AI",
+      "20K UST engineers to train on Claude"
+    ],
+    "ai-hn": [
+      "GPT-5.6 launch dominates with 1069 points",
+      "OpenAI accused of hiding evidence by NYT",
+      "Claude Code ecosystem rapidly maturing",
+      "GLM 5.2 matches human bookkeeping accuracy",
+      "Debate on LLM judges for quality gates",
+      "Legal turmoil shadows GPT-5.6 excitement"
+    ],
+    "ai-arxiv": [
+      "Agentic systems benchmarks dominate new research",
+      "Speculative decoding sees architectural innovations",
+      "Super weights in LLMs challenge pruning strategies",
+      "Binary spherical coding for extreme LLM compression",
+      "Quantization effects statistically characterized",
+      "Domain-specific LLMs move beyond proof-of-concept"
+    ],
+    "ai-hf": [
+      "Qwen3.5/3.6 MoE variants dominate leaderboard",
+      "NVIDIA LocateAnything-3B gets 2687 likes",
+      "GLM-5.2 leads pure language models with 3729 likes",
+      "Uncensored MoE models show high community demand",
+      "GGUF quantization variants see massive downloads",
+      "Tencent Hy3 trending as flagship open-weight LLM"
+    ],
+    "ai-community": [
+      "Developers push back against blind AI adoption",
+      "Parable on vendor lock-in in AI supply chains",
+      "Debate on manual vs AI-generated code quality",
+      "Deterministic routing alternative to LLM judges",
+      "Google environmental impact sparks sobering discussion",
+      "Cursor-generated command injection security warning"
+    ]
+  }
+}
