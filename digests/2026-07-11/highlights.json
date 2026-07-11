@@ -1,0 +1,109 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code v2.1.207 发布，社区讨论热度极高",
+      "OpenAI Codex 焦点在模型行为异常与专业讨论",
+      "Gemini CLI 安全加固和Agent逻辑修复成焦点",
+      "GitHub Copilot CLI v1.0.71-0 发布，修复TUI稳定性",
+      "Qwen Code 发布 v0.19.9 及 nightly 版本",
+      "DeepSeek TUI 冲刺 v0.8.68，进行重大架构重构"
+    ],
+    "ai-agents": [
+      "OpenClaw 社区活跃，429条Issue和500条PR",
+      "修复Anthropic模型思考中断导致对话失败严重Bug",
+      "修复 session.pruneAfter 配置项被忽略的Bug",
+      "修复 Gateway 重启死循环问题，提升系统韧性",
+      "修复 Active Memory 查询截断时 Emoji 乱码问题",
+      "修复 Web UI 中 Skill Workshop 预览渲染问题"
+    ],
+    "ai-trending": [
+      "addyosmani/agent-skills 今日最热，获1116星",
+      "mattpocock/skills 今日新增1712星，极为火爆",
+      "obra/superpowers Agent技能框架获1013星",
+      "Eigenwise/atomic-agents 累计6033星，代表新趋势",
+      "NousResearch/hermes-agent 累计212,782星，极受欢迎",
+      "TencentCloud/TencentDB-Agent-Memory 解决记忆断层"
+    ],
+    "ai-hn": [
+      "苹果正式起诉OpenAI，指控窃取商业机密",
+      "GPT-5.6 Sol Ultra 证明圈双覆盖猜想，引发热议",
+      "GPT-5.6、Grok 4.5等模型编码能力横向对比",
+      "AI2Web 开源协议旨在标准化Agent与网站交互",
+      "Ben Bernanke 加入 Anthropic 监管信托",
+      "AI代理因滥用被封，另一AI批准其上诉引发讨论"
+    ],
+    "ai-arxiv": [
+      "UniClawBench 提出具身智能体标准化基准",
+      "BiSCo-LLM 实现1-bit极低比特LLM压缩",
+      "OpenCoF 通过视频生成进行推理的新范式",
+      "Super Weights在LLM中并非普遍存在，挑战现有认知",
+      "WebSwarm 设计递归式多智能体深度搜索框架",
+      "量化后LLM行为模式会显著改变，需谨慎评估"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2 获3785赞，开源旗舰模型",
+      "nvidia/LocateAnything-3B 下载量达145万",
+      "baidu/Unlimited-OCR 下载量达131万，实用性强",
+      "deepseek-ai/DeepSeek-V4-Pro-DSpark MoE优化",
+      "InternScience/Agents-A1 基于Qwen3.5的Agent模型",
+      "meituan-longcat/LongCat-2.0 超长上下文模型"
+    ],
+    "ai-community": [
+      "构建错误模型处理AI API失败比检查状态码更健壮",
+      "开发者创建Linter专门检测AI助手的常见安全漏洞",
+      "反思将编码Agent当赌博机反复生成的低效行为",
+      "分享LangGraph多Agent系统从编排到生产部署经验",
+      "AI流日志记为零Token但已交付，揭示计费漏洞"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "7 major tools in rapid maturation",
+      "Claude Code v2.1.207 released",
+      "GPT-5.6 rollout causes model churn",
+      "Agent cost governance failures reported",
+      "Windows regressions plague ecosystem",
+      "Open-source vs commercial bifurcation"
+    ],
+    "ai-agents": [
+      "OpenClaw: 429 issues, 500 PRs today",
+      "193 issues closed in 24 hours",
+      "Anthropic thinking signature fix merged",
+      "Codex expansion adds session supervision",
+      "macOS onboarding stability improved",
+      "Discord message loss bug fixed"
+    ],
+    "ai-trending": [
+      "Agent-skills repo +1,116 stars today",
+      "mattpocock/skills +1,712 stars",
+      "OfficeCLI: office suite for AI agents",
+      "TencentDB-Agent-Memory goes local",
+      "Shift from chatbots to agentic tooling",
+      "DesktopCommanderMCP gives Claude terminal"
+    ],
+    "ai-hn": [
+      "Apple sues OpenAI for trade secret theft",
+      "GPT-5.6 proves Cycle Double Cover Conjecture",
+      "AI appealed its ban for cyber abuse",
+      "Grok 4.5 vs Claude coding head-to-head",
+      "Community debates model vs human reasoning",
+      "AI governance in chaos after ban appeal"
+    ],
+    "ai-arxiv": [
+      "Test-time optimization methods surge",
+      "Quantization effects masked by accuracy",
+      "Super Weights assumption challenged",
+      "BiSCo-LLM: extreme low-bit compression",
+      "Reliability benchmarks mature for trust",
+      "Speculative decoding variants explored"
+    ],
+    "ai-hf": [
+      "GLM-5.2 tops with 3,785 likes",
+      "Qwen3.6 ecosystem dominates quantization",
+      "LocateAnything-3B enterprise demand",
+      "Qwythos-9B: story-driven reasoning",
+      "Unlimited-OCR strong vertical bet",
+      "GGUF quantization for deployment scale"
+    ]
+  }
+}
