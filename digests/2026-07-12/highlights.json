@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code Agent Teams稳定性成核心痛点",
+      "OpenAI Codex 配额系统Bug引发热议",
+      "Gemini CLI 工具数量上限问题待解",
+      "OpenCode 面临GPT-5.6兼容性挑战",
+      "Pi 正加速适配GPT-5.6系列模型",
+      "Qwen Code 守护进程多工作区功能推进"
+    ],
+    "ai-agents": [
+      "OpenClaw v2026.7.1-beta.5发布，引导式入职体验",
+      "社区活跃度极高：464条Issue与500条PR",
+      "P0级Bug指向会话状态和内存泄漏",
+      "分布式代理运行时架构讨论持续推进",
+      "MCP Apps协议为标准插件化铺路",
+      "语音通话流式TTS重大进展已关闭"
+    ],
+    "ai-trending": [
+      "DesktopCommanderMCP今日获909星，MCP生态爆发",
+      "Google开源stitch-skills，Agent技能市场雏形",
+      "browser-use获10.4万星，AI Agent互联网接口",
+      "CherryHQ一站式AI工作室获4.8万星",
+      "rig用Rust构建模块化LLM框架获7.9k星",
+      "CopilotKit简化AI Agent前端集成获3.6万星"
+    ],
+    "ai-hn": [
+      "Soofi LLM仅用两月训练完成，欧洲主权AI崛起",
+      "Mesh LLM分布式计算挑战数据中心垄断",
+      "Argument Collapse论文揭示LLM扁平化辩论",
+      "Sqlsure确定性检测AI生成SQL安全性",
+      "OpenIngress基准测试智能体爬取能力",
+      "社区对Microsoft、Anthropic等巨头不信任升温"
+    ],
+    "ai-hf": [
+      "GLM-5.2国产模型稳居社区热度榜首",
+      "nvidia LocateAnything万物定位模型惊艳亮相",
+      "baidu Unlimited-OCR号称任意文本识别",
+      "ThinkingCap基于Qwen3.6的多模态推理模型",
+      "LTX Best Face ID LoRA实现视频身份保持",
+      "InternScience Agents-A1专为Agent打造"
+    ],
+    "ai-community": [
+      "Grok 4.5用60亿数据集推翻巧架构迷思",
+      "Transformer论文8位作者全部离开谷歌",
+      "SigNoz开源工具实现LLM Agent链路追踪",
+      "手把手教程：构建首个Claude Code MCP服务器",
+      "Claude Code被曝在提示词中嵌入隐写标记",
+      "开发者开始反思AI指令的熵增与规则失效"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code, Codex, Gemini lead ecosystem",
+      "MCP integration is top cross-cutting issue",
+      "GPT-5.6 model support drives rapid patches",
+      "8 major tools showing distinct evolution",
+      "Windows faces systemic sandbox failures",
+      "macOS stability regressions plague Claude Code"
+    ],
+    "ai-agents": [
+      "OpenClaw in high-velocity stabilization sprint",
+      "464 issues and 500 PRs in 24 hours",
+      "P0 regression breaks nearly all tool outputs",
+      "New beta release v2026.7.1-beta.5 ships",
+      "Conversational onboarding shipped across platforms",
+      "Critical memory pressure fixes in progress"
+    ],
+    "ai-trending": [
+      "DesktopCommanderMCP gains +909 stars today",
+      "obra/superpowers adds +740 stars today",
+      "Memory management tools surge as infrastructure",
+      "Knowledge graph RAG projects gain traction",
+      "Agent skill frameworks dominate ecosystem",
+      "Shift toward production-grade agent engineering"
+    ],
+    "ai-hn": [
+      "'Stop Telling Me to Ask an LLM' trending",
+      "Mesh LLM offers decentralized AI alternative",
+      "Deep distrust of OpenAI and Anthropic",
+      "Soofi European sovereign LLM emerges",
+      "Apple trade secret lawsuit against labs",
+      "Sqlsure provides deterministic AI outputs"
+    ],
+    "ai-hf": [
+      "Qwen3.6 and GLM-5.2 lead MoE trends",
+      "Nvidia pushes three new open-weight models",
+      "Gemma-4-12B-agentic model gains traction",
+      "Vision-language MoEs top download charts",
+      "GLM-5.2 gets 3,832 likes, 421k downloads",
+      "GGUF quantizations make massive models accessible"
+    ],
+    "ai-community": [
+      "Developers obsessed with AI agent governance",
+      "Steganographic markers in Claude Code prompts",
+      "Grok 4.5 data acquisition cost debate",
+      "All 8 Transformer paper authors left Google",
+      "Energy consumption of AI search debated",
+      "Mass surveillance concerns on Lobste.rs"
+    ]
+  }
+}
