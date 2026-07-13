@@ -47,6 +47,14 @@
       "AI Agent 长上下文与记忆管理问题引激烈讨论",
       "Lobste.rs 尖锐批评 Google AI 能耗与环境影响",
       "Docs Aren't Bags of Chunks 精准指出 RAG 结构问题"
+    ],
+    "ai-weekly": [
+      "GPT-5.6发布引爆社区，性能与成本争议并存",
+      "苹果起诉OpenAI，指控挖角窃取商业机密",
+      "Anthropic发布Claude Sonnet 5，主打高性价比Agent",
+      "Claude Code被曝启动消耗3.3万Token引争议",
+      "Agent技能库霸榜GitHub，编程转向专业化",
+      "微软发布Flint可视化语言，提升Agent可观测性"
     ]
   },
   "en": {
@@ -97,6 +105,14 @@
       "Agentic architecture patterns surge in interest",
       "Google digital bloat and climate impact critiqued",
       "AI surveillance discussion dominates Lobste.rs"
+    ],
+    "ai-weekly": [
+      "GPT-5.6 'Sol' launch triggers CLI chaos",
+      "OpenAI OAuth and serialization bugs hit tools",
+      "Anthropic Sonnet 5: agent-first, lower cost",
+      "Apple sues OpenAI for trade secret theft",
+      "Agent 'skills' ecosystem explodes on GitHub",
+      "Anthropic 'Global Workspace' research draws buzz"
     ]
   }
 }
