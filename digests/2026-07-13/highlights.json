@@ -1,0 +1,102 @@
+{
+  "zh": {
+    "ai-cli": [
+      "OpenCode 复制 Bug 获 105 个赞，社区最活跃",
+      "OpenAI Codex 推 GPT-5.6 兼容和多 Agent 控制",
+      "Gemini CLI 发布 v0.52.0-nightly 修复安全漏洞",
+      "Pi 和 OpenCode 迭代最快，各合并 10 个 PR",
+      "Claude Code 遭遇 Fable-5 稳定性与安全绕过问题",
+      "Copilot CLI 语音模式失效、WSL2 死锁频发"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.1-beta.6，新增 ClawRouter",
+      "修复 Discord 会话冲突导致消息静默丢失问题",
+      "内存泄漏与工具输出渲染回归成 P0 级 Bug",
+      "新增支持 Featherless、Claude Sonnet 5 等模型",
+      "默认模型已切换为 GPT-5.6",
+      "为 Sol、Terra 用户引入 /think ultra 模式"
+    ],
+    "ai-trending": [
+      "HKUDS/Vibe-Trading 今日涨 768 星，金融 Agent 爆发",
+      "destructive_command_guard 守护 Agent 安全，涨 444 星",
+      "DesktopCommanderMCP 让 Claude 操控桌面终端",
+      "用 Rust 重写 PostgreSQL 的项目获超高热度",
+      "Nutlope/hallmark 反AI味的编程设计工具涨 155 星",
+      "firecrawl 为 LLM 提供大规模网页抓取 API"
+    ],
+    "ai-hn": [
+      "Claude Code 启动前消耗 3.3 万 Token，引效率争议",
+      "苹果起诉 OpenAI 成为 HN 社区讨论焦点",
+      "OpenAI 安全负责人离职引发治理担忧",
+      "社区激烈反思 LLM 领域过度炒作现象",
+      "Anthropic 发现 Claude 隐藏思考空间引好奇",
+      "Grok 4.5 和 GPT-5.6 在安全审查中超越 Anthropic"
+    ],
+    "ai-hf": [
+      "zai-org/GLM-5.2 周增近 4000 赞，MoE 架构旗舰",
+      "nvidia/LocateAnything-3B 零样本定位下载超 150 万",
+      "baidu/Unlimited-OCR 无预设字符集识别任意文字",
+      "Qwen 3.6 和 DeepSeek V4 国产模型家族扩展",
+      "Cohere 发布高精度阿拉伯语语音识别模型",
+      "OpenMOSS MOSS-Transcribe-Diarize 集语音转写与说话人分离"
+    ],
+    "ai-community": [
+      "Jetson Nano 跑 Ollama 基准评测获社区好评",
+      "混合本地与云端 LLM 部署指南帮选型省钱",
+      "开发者分享 7 招防止 LLM API 账单暴增",
+      "AI Agent 长上下文与记忆管理问题引激烈讨论",
+      "Lobste.rs 尖锐批评 Google AI 能耗与环境影响",
+      "Docs Aren't Bags of Chunks 精准指出 RAG 结构问题"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code and Codex dominate but show regressions",
+      "Windows remains a second-class platform",
+      "Gemini CLI proposes multi-workspace daemons",
+      "Copilot CLI adds AST-aware navigation",
+      "Kimi Code and DeepSeek TUI focus on localization",
+      "Gap persists between config UI and runtime behavior"
+    ],
+    "ai-agents": [
+      "500 issues and 500 PRs updated in 24 hours",
+      "Platinum hermit bugs include critical memory leak",
+      "Released v2026.7.1-beta.6 with new models",
+      "Added support for Featherless and Claude Sonnet 5",
+      "Introduced ClawRouter routing service for agents",
+      "High merge rate but maintainer backlog flagged"
+    ],
+    "ai-trending": [
+      "destructive_command_guard gains 444 stars for safety",
+      "Vibe-Trading explodes with +768 stars today",
+      "Anti-AI-slop movement grows via hallmark toolkit",
+      "Claude Code companion projects proliferating",
+      "DesktopCommanderMCP enables terminal control",
+      "Financial AI frameworks surge in popularity"
+    ],
+    "ai-hn": [
+      "Claude Code burns 33k tokens before reading prompt",
+      "Token overhead in coding agents sparks harsh debate",
+      "Mechanistic interpretability research using causality",
+      "Hidden Claude scratchpad space discovered",
+      "Apple and OpenAI legal war escalates",
+      "Community reveals split on AI tool bloat"
+    ],
+    "ai-hf": [
+      "Qwen 3.6 ecosystem drives fine-tune explosion",
+      "Uncensored and thinking model trend accelerates",
+      "NVIDIA releases LocateAnything-3B vision model",
+      "Cohere makes strategic specialized domain plays",
+      "Multi-modal MoE architectures solidify as paradigm",
+      "GLM-5.2 MoE model gains 441k downloads"
+    ],
+    "ai-community": [
+      "Developers focus on LLM API cost control",
+      "Multi-agent pipelines skip critical checkpoints",
+      "npm install malware attack via preinstall hook",
+      "Agentic architecture patterns surge in interest",
+      "Google digital bloat and climate impact critiqued",
+      "AI surveillance discussion dominates Lobste.rs"
+    ]
+  }
+}
