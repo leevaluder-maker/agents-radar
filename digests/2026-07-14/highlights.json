@@ -1,0 +1,118 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Gemini CLI 因 Agent 失控致数据丢失引发愤怒。",
+      "Claude Code v2.1.208 发布，社区焦虑成本与安全。",
+      "Kimi CLI 社区贡献活跃，积极填补功能空白。",
+      "OpenCode v1.17.20 快速迭代，阵痛于新模型兼容。",
+      "GitHub Copilot CLI 安全机制失效遭质疑。",
+      "Qwen Code 发布 nightly 版，探索 Daemon 架构。"
+    ],
+    "ai-agents": [
+      "OpenClaw 发布 v2026.7.1，新增 Featherless 模型平台。",
+      "修复会话状态丢失与启动崩溃仍为 P0 级 Bug。",
+      "引入 ClawRouter 组件，可能是新请求路由功能。",
+      "为上下文引擎增加超时机制，防止插件锁死。",
+      "默认模型调整为 GPT-5.6，优化 /think 指令。",
+      "OAuth 登录后刷新模型列表，提升用户体验。"
+    ],
+    "ai-trending": [
+      "Shubhamsaboo/awesome-llm-apps 获 119k 星，今日涨 996。",
+      "Significant-Gravitas/AutoGPT 稳坐 185k 星 Agent 框架榜首。",
+      "DietrichGebert/ponytail 用提示反卷，模仿最懒资深开发者。",
+      "Trending 榜现\"反AI 味\"代码工具，驯服 AI 成刚需。",
+      "ollama/ollama 176k 星，一键运行本地大模型热度不减。",
+      "vllm-project/vllm 86k 星，成 LLM 生产部署基础设施。"
+    ],
+    "ai-web": [
+      "Anthropic 一日发布 7 篇新内容，密度极高。",
+      "研究量化 Claude 价值观在不同模型和语言中的差异。",
+      "新论文揭示模型可能成为\"内鬼型错位\"的潜在威胁。",
+      "Claude 在机器人控制任务表现依赖接口抽象层级。",
+      "可解释性研究提出语言模型存在全局工作区结构。",
+      "OpenAI 今日无增量更新，内容产出节奏暂时落后。"
+    ],
+    "ai-hn": [
+      "Zig 作者痛批 Claude 生成代码是\"未经审查的垃圾\"。",
+      "MIT 新方法标记训练数据中违规内容无需生成。",
+      "Claude Code 趣味插件播放瑞克和莫蒂声音缓解等待焦虑。",
+      "开发者展示在 SQL 中实现神经网络引发惊叹。",
+      "Anthropic 薪酬性价比引热议，聚焦 AI 人才价值。",
+      "世界模型潜力与局限深度分析获少量高质量关注。"
+    ],
+    "ai-hf": [
+      "Qwen 家族持续霸榜，占据 Hugging Face 半壁江山。",
+      "腾讯 Hy3 第三代文本模型发布，国产大模型再布局。",
+      "NVIDIA 巨型 MoE 模型 75B 参数量，仅激活 9B。",
+      "百度 Unlimited-OCR 下载量超百万，解决通用识别痛点。",
+      "MoE 混合专家架构全面开花，稀疏激活成主流。",
+      "GGUF 量化格式依旧是个人部署的首选方案。"
+    ],
+    "ai-community": [
+      "开发者反思：AI 编码助手用完 30 天反而变差。",
+      "戒断 AI 编码助手 30 天后找回职业安全感。",
+      "尖锐指出 AI 编码隐藏成本：正在失去解释系统能力。",
+      "Porting Gemma-4 至 AWS Inferentia2 实战报告详实。",
+      "创新 CLI 设计：AI 工具被许可以说‘我不知道’。",
+      "Dev.to 上反思 AI 依赖与 Lobste.rs 聚焦宏观影响。"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "All 7 major tools report destructive behavior",
+      "Claude Code's silent model-switch bug draws 33 comments",
+      "OpenCode v1.17.20 and Codex v0.144.2 ship",
+      "Community trust eroding due to data-loss incidents",
+      "Permission bypass and runaway billing plague ecosystem",
+      "Claude Code v2.1.208 and Gemini CLI nightly released"
+    ],
+    "ai-agents": [
+      "OpenClaw hits 100 issues and 500 PRs in 24 hours",
+      "GPT-5.6 becomes default setup model",
+      "Two releases cut: v2026.7.1 stable and beta.6",
+      "Featherless, Claude Sonnet 5, Mythos 5 added",
+      "91 of 100 open issues are high-severity blockers",
+      "Diamond lobster and platinum hermit ratings spike"
+    ],
+    "ai-trending": [
+      "Vibe-Trading gains +1153 stars in a single day",
+      "Graphify surges +1095 for knowledge graph retrieval",
+      "Hallmark brings anti-AI-slop design tools",
+      "spec-kit enables spec-driven development",
+      "'Agent infrastructure' projects dominate trending",
+      "Shubhamsaboo's LLM apps repo hits 119,644 stars"
+    ],
+    "ai-web": [
+      "Anthropic drops 7 major pieces on July 13",
+      "Study reveals models exhibit malicious insider behaviors",
+      "'Global workspace' (J-space) found in Claude",
+      "Claude Design enters visual prototyping market",
+      "Claude improves rapidly on robotics benchmarks",
+      "Sydney office opens with new ANZ GM announced"
+    ],
+    "ai-hn": [
+      "'Zig Creator Calls Spade a Spade' thread hits 1,406 points",
+      "MIT flags AI models trained on CASM data",
+      "Microsoft's Claude Code rollout under scrutiny",
+      "Anthropic's $65K SF salary sparks hiring debate",
+      "Debate rages over AI code generation quality",
+      "Community polarized on over-reliance on AI tools"
+    ],
+    "ai-hf": [
+      "GLM-5.2 MoE model trends with 3,900 likes",
+      "Qwen3.6 variants dominate Hugging Face leaderboard",
+      "Empero-ai's Qwythos surpasses 2M downloads",
+      "Vision-language models become largest category",
+      "Tencent's Hy3 model trends with 9.2K downloads",
+      "Unlimited-OCR and Agents-A1 target niche domains"
+    ],
+    "ai-community": [
+      "'I Let Claude Code Write 90% of My Code' goes viral",
+      "Author quits AI assistants for 30 days",
+      "Debate: 'Your AI Agent Is Fast, You're Getting Slower'",
+      "Ben Halpern argues documentation is still essential",
+      "Lobste.rs flags Google's AI energy consumption",
+      "MCP tool routing and benchmarking take center stage"
+    ]
+  }
+}
