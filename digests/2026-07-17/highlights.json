@@ -1,0 +1,134 @@
+{
+  "zh": {
+    "ai-cli": [
+      "Claude Code遇会话丢失+新模型Fable 5质量问题",
+      "OpenAI Codex Windows版性能惨遭社区差评",
+      "Gemini CLI发布v0.52.0-preview.0强化安全审计",
+      "GitHub Copilot CLI爆会话死锁与安全漏洞",
+      "Pi认证稳定性差+平台兼容引社区热议",
+      "Kimi Code CLI新手引导与安装兼容性问题突出"
+    ],
+    "ai-agents": [
+      "OpenClaw两版本爆发P0级回归Bug遭千条Issue",
+      "CJK Token估算修复上线将避免中文被截断",
+      "百条PR待审凸显项目人力瓶颈严峻",
+      "OpenClaw核心稳定性修复与重构推进中",
+      "无新版本发布但社区贡献热度不减",
+      "多个关键修复案正等待合并审查"
+    ],
+    "ai-trending": [
+      "Nutlope/hallmark登顶今日Trending新增3372星",
+      "mattpocock/skills推Skills成AI编码新标准",
+      "Graphify将文档图像一键转知识图谱",
+      "AutoGPT与Hermes Agent等成熟框架持续迭代",
+      "Rust重写OpenInterpreter性能飙升",
+      "PageIndex等无向量RAG方案获关注"
+    ],
+    "ai-web": [
+      "OpenAI发文《青少年应安全访问AI》标题引猜测",
+      "Anthropic官网当日零更新疑似酝酿重大发布",
+      "两大巨头同日沉默或为新品内部冲刺",
+      "OpenAI转向社会责任叙事强调AI准入",
+      "Anthropic可能为Claude 4安全护栏做准备",
+      "仅一条标题凸显数据受限分析转向策略"
+    ],
+    "ai-hn": [
+      "YC前创始人至少105人流向OpenAI与Anthropic",
+      "LM Studio Bionic上线开放模型Agent功能",
+      "传统ML方法检测LLM文本引道高一尺魔高丈",
+      "1Password推Claude凭据管理解决Agent安全痛点",
+      "AI编码把开发者大脑融化了引社区共鸣",
+      "Ente开源书籍折射社区对非AI巨头技术渴求"
+    ],
+    "ai-arxiv": [
+      "BadWAM揭穿世界模型预测准但决策错的幻觉",
+      "LongStraw将强化学习扩展到2M+长上下文",
+      "Plover让用户可视可改GUI智能体计划",
+      "Digital Pantheon用AI模拟复杂政治联盟形成",
+      "LLM生成Grokipedia被审计出意识形态偏见",
+      "Steering Robustness研究聚焦AI安全核心"
+    ],
+    "ai-hf": [
+      "Qwen3.6视觉MoE无审查版下载量超230万",
+      "prism-ml推出1-bit与2-bit极致量化模型",
+      "empero-ai Qwythos-9B系列下载量破200万",
+      "腾讯Hy3与智谱GLM-5.2领跑国产模型榜",
+      "InternScience推Qwen3.5-MoE智能体专用模型",
+      "gemma-4-12B微调版侧重编程与Agent能力"
+    ],
+    "ai-community": [
+      "AI生成代码被比作高利贷需还技术债",
+      "亲测揭秘Claude桌面版会跑满CPU",
+      "开发者自建轻量Agent可观测性工具",
+      "Anthropic传9650亿美元IPO布局MicroVM",
+      "LLM评估教程手把手教你确保工具安全正确",
+      "Token Drift解析Agent越用越慢越贵的真相"
+    ]
+  },
+  "en": {
+    "ai-cli": [
+      "Claude Code v2.1.212 /fork redesign released",
+      "Codex rusty-v0.144.5 fixes Windows conflicts",
+      "Gemini CLI adds multi-model orchestration",
+      "Pi invests in dynamic tool loading",
+      "Cross-tool agent autonomy safety concerns",
+      "Memory leaks plague Claude Code on macOS"
+    ],
+    "ai-agents": [
+      "OpenClaw 500 issues and PRs in 24hrs",
+      "Critical regressions in 2026.7.1 release",
+      "197 PRs merged today despite high activity",
+      "Gateway startup failures under triage",
+      "Session state corruption bugs surfacing",
+      "Zero new releases, stabilizing 2026.7.x"
+    ],
+    "ai-trending": [
+      "Agent skill directories hit 2,000+ stars daily",
+      "Graphify makes codebases queryable with KGs",
+      "DeepTutor launches lifelong LLM tutoring system",
+      "Hallmark anti-AI-slop tool gets 3,372 stars",
+      "Apache OSSIE standardizes semantic metadata",
+      "Copilot SDK expands beyond VS Code ecosystem"
+    ],
+    "ai-web": [
+      "OpenAI targets teens with safety messaging",
+      "Anthropic publishes zero new articles today",
+      "Near-silence suggests lull before major release",
+      "Youth AI access framed as a right",
+      "Policy pivot amid child safety regulation",
+      "Single metadata entry from OpenAI"
+    ],
+    "ai-hn": [
+      "LM Studio Bionic agent for open models",
+      "Anthropic junior staffer EU testimony sparks debate",
+      "YC labs regulatory entanglement deepens",
+      "Politico exposes Anthropic state lobbying plan",
+      "Practical AI agent tools dominate front page",
+      "Local user-controlled AI agents gaining traction"
+    ],
+    "ai-arxiv": [
+      "WAM failure modes dissected in two papers",
+      "Medical AI safety benchmark released",
+      "LQCDMaster automates lattice QCD research",
+      "Item Response Theory breaks under high ability",
+      "On-policy distillation advances LM alignment",
+      "Mask-Aware RL for diffusion language models"
+    ],
+    "ai-hf": [
+      "Tencent Hy3 Hunyuan model gains traction",
+      "Zhipu GLM-5.2 MoE reaches 500K downloads",
+      "Ternary-Bonsai pushes 1-bit 27B model limits",
+      "Qwythos-9B family dominates download charts",
+      "Baidu Unlimited-OCR signals growing demand",
+      "Extreme quantization and MoE architectures trend"
+    ],
+    "ai-community": [
+      "LLM evals framework for developer tools",
+      "Agentic harness abstraction layer defined",
+      "Generated code is technical debt loan",
+      "Self-hosted observability for black-box agents",
+      "Data center wealth concentration concerns grow",
+      "Open-source agent skills repositories emerge"
+    ]
+  }
+}
